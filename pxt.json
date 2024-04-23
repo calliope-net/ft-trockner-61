@@ -1,5 +1,6 @@
 {
     "name": "ft2-trockner-61",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "core": "*",
